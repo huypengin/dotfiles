@@ -1,0 +1,17 @@
+theme = "base16_transparent"
+
+[editor]
+line-number = "relative"
+end-of-line-diagnostics = "hint"
+inline-diagnostics.cursor-line = "warning"
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.soft-wrap]
+enable = true
+max-wrap = 25
+max-indent-retain = 0
+
