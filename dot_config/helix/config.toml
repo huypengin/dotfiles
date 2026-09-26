@@ -14,4 +14,3 @@ select = "underline"
 enable = true
 max-wrap = 25
 max-indent-retain = 0
-
