@@ -1,6 +1,7 @@
 # Tools
 alias hx="helix"
 alias ff="fastfetch"
+alias yz="yazi"
 
 # Replace ls with eza
 alias ls='eza -al --color=always --group-directories-first --icons=always' # preferred listing
