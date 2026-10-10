@@ -2,6 +2,7 @@
 alias hx="helix"
 alias ff="fastfetch"
 alias yz="yazi"
+alias lz="lazygit"
 
 # Replace ls with eza
 alias ls='eza -al --color=always --group-directories-first --icons=always' # preferred listing
