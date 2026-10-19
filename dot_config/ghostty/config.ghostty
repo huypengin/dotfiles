@@ -1,4 +1,6 @@
-theme = Xcode Dark hc
+config-file = ./keybind.ghostty
+
+theme = noctalia
 
 window-decoration = server
 
@@ -10,3 +12,5 @@ window-padding-y = 10
 
 background-opacity = 0.8
 background-blur = true
+
+right-click-action = ignore
