@@ -14,3 +14,7 @@ select = "underline"
 enable = true
 max-wrap = 25
 max-indent-retain = 0
+
+[keys.normal.space]
+"." = ":toggle-option file-picker.git-ignore"
+"h" = ":toggle-option file-picker.hidden"
